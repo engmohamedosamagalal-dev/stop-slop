@@ -1,3 +1,9 @@
+---
+name: stop-slop
+description: Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text.
+---
+
+# Stop Slop
 # Structures to Avoid
 
 ## Binary Contrasts
